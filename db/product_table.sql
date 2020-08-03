@@ -10,5 +10,5 @@ CREATE TABLE IF NOT EXISTS `products` (
 
 
 INSERT INTO `products` (`product_id`, `name`, `amount`, `qty_stock`, `dt_sales`, `amount_sales`) VALUES
-(1, 'Dell Inspirion', '4000.0', 3, null, '336'),
-(2, 'MacBook Air', '7000.0', 0, '2020-08-03 01:12:26', '336')
+(1, 'Dell Inspirion', '4000.0', 3, null, '0'),
+(2, 'MacBook Air', '7000.0', 0, '2020-08-03 01:12:26', '2')
