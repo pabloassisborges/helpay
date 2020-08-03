@@ -31,6 +31,18 @@ A proposta desse exercício é construir uma API REST para compra de produtos ut
 
 ├────── update.php - Atualiza a informação de um produto, de acordo com seu <i>product_id</i>
 
+├─── purchase/
+
+├────── purchase.php - Faz situação de compra
+
+├─── routes/
+
+├────── routes.php - Ajusta rotas da aplicação
+
+├─ db/
+
+├─── product_table.sql - Schema do banco de dados
+
 ├─ Dockerfile
 
 ├─ README.md
